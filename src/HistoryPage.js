@@ -20,7 +20,7 @@ function HistoryPage() {
         <hr />
         <VideoRow
           title="Rep. Buck on Big Tech Investigations and Conservative Bias"
-          subs="230k"
+          subs="2230k"
           views="3.9M Views"
           timestamp="3 days ago"
           channel="Bloomberg Politics"
